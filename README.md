@@ -3,11 +3,6 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdhcjIyZTd1YWZmdDdsem1rbTd3c2VjYnR6YmtmcTF5bjFuajAzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oolHrmHDE9XtZtSLG8/giphy.gif" width="800">
 
-"Build a full-stack LLM application with OpenAI, Flask, React, and Pinecone". It allows a user to input a URL and ask questions about the content of that webpage. It demonstrates the use of Retrieval Augmented Generation, OpenAI, and vector databases.
-* **[Part 1:](https://shwinda.medium.com/ceda4e290c33](https://medium.com/@shwinda/build-a-full-stack-llm-application-with-openai-flask-react-and-pinecone-part-1-f3844429a5ef))** Backend and RAG with Python, OpenAI, and Pinecone ([branch](https://github.com/ashnkumar/llm_full_stack_tutorial/tree/part1_backend))
-* **[Part 2:](https://medium.com/@shwinda/build-a-full-stack-llm-application-with-openai-flask-react-and-pinecone-part-2-ceda4e290c33)** Front-end chat user interface with React ([branch](https://github.com/ashnkumar/llm_full_stack_tutorial/tree/part2_frontend))
-* **Part 3 (coming):** Tracking important metrics for a production LLM application
-
 ## Architecture
 <img src="https://i.imgur.com/FqOr8t8.png" witdth="800">
 
