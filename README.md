@@ -1,5 +1,5 @@
-# InsightAI AI-driven chatbot
-*Full-stack LLM application with OpenAI, Flask, React, and Pinecone*
+# InsightAI chatbot
+*Full-stack  Retrieval-Augmented Generation (RAG) based chatboat enabling URL submission, real-time content extraction, and context-aware responses from LLMs with OpenAI, Flask, React, and Pinecone*
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdhcjIyZTd1YWZmdDdsem1rbTd3c2VjYnR6YmtmcTF5bjFuajAzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oolHrmHDE9XtZtSLG8/giphy.gif" width="800">
 
